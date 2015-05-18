@@ -1,2 +1,2 @@
 # Certifications
-Proof of various MOOC I have taken till date
+Proofs of various MOOCs I have taken till date.
