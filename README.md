@@ -1,8 +1,8 @@
 # Certifications
-Certificates of various MOOCs I have taken till date.
+Certificates of various MOOCs [Massive Open Online Course] I have taken till date.
 
-| Certificate Name | Certification Authority and URL | Date |
-| --- | --- | -- |
+| Certificate Name | Certification Authority and URL | Date Certified |
+| --- | --- | --- |
 | [Cloudera Certified Developer for Apache Hadoop (CCDH)](https://github.com/P7h/MOOC_Certifications/blob/master/Cloudera_CCDH_Certificate.pdf) | [Cloudera](https://www.cloudera.com/training/certification.html) | 27<sup>th</sup> Sep, 2012 |
 | [Introduction to Big Data with Apache Spark, CS100.1x](https://github.com/P7h/MOOC_Certifications/blob/master/edX_IntroToBigDataWithApacheSpark.pdf) | BerkeleyX, UCB and Databricks  @ [edX](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) | 10<sup>th</sup> Jul, 2015 |
 | [Scalable Machine Learning, CS190.1x](https://github.com/P7h/MOOC_Certifications/blob/master/edX_ScalableMachineLearning.pdf) | BerkeleyX, UCB and Databricks  @ [edX](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) | 06<sup>th</sup> Aug, 2015 |
